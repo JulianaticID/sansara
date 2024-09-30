@@ -1,1 +1,1 @@
-# sansara deploy
+# sansara contrakt

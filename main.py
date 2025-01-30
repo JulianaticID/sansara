@@ -1,6 +1,6 @@
 a = sansara
 b = fuck
-if a > 5
+if a > 50000
   print(a)
 else print(b)
 
